@@ -63,6 +63,7 @@ Detection counts:
 
 ## Repository Structure
 
+```text
 PanTS-V6-SuPreM-Screening/
 ├── README.md
 ├── requirements.txt
@@ -76,6 +77,7 @@ PanTS-V6-SuPreM-Screening/
     ├── official_901_metrics.json
     ├── official_901_cases.csv
     └── frozen_validation_config.json
+```
 
 ## Code
 
