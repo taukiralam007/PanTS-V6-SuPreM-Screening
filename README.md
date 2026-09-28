@@ -63,18 +63,19 @@ Detection counts:
 
 ## Repository Structure
 
-PanTS_V6_GitHub/
+PanTS-V6-SuPreM-Screening/
 ├── README.md
+├── requirements.txt
+├── .gitignore
 ├── code/
 │   ├── PanTS_V6_Colab.ipynb
 │   └── PanTS_V6_Colab.py
 ├── checkpoints/
 │   └── final_v6_full.pt
-├── results/
-│   ├── official_901_metrics.json
-│   ├── official_901_cases.csv
-│   └── frozen_validation_config.json
-└── docs/
+└── results/
+    ├── official_901_metrics.json
+    ├── official_901_cases.csv
+    └── frozen_validation_config.json
 
 ## Code
 
