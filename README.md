@@ -24,7 +24,7 @@ No threshold tuning was performed using the official test results.
 - Input: 3D abdominal CT
 - Initialization: SuPreM pretrained SegResNet
 - Parameters: 4,700,914
-- Final checkpoint: `model/final_v6_full.pt`
+- Final checkpoint: `checkpoints/final_v6_full.pt`
 
 ## Frozen Validation Configuration
 
@@ -68,7 +68,7 @@ PanTS_V6_GitHub/
 ├── code/
 │   ├── PanTS_V6_Colab.ipynb
 │   └── PanTS_V6_Colab.py
-├── model/
+├── checkpoints/
 │   └── final_v6_full.pt
 ├── results/
 │   ├── official_901_metrics.json
@@ -98,7 +98,7 @@ The pipeline includes:
 - `results/frozen_validation_config.json`
 - `results/official_901_metrics.json`
 - `results/official_901_cases.csv`
-- `model/final_v6_full.pt`
+- `checkpoints/final_v6_full.pt`
 
 ## Evaluation Integrity
 
