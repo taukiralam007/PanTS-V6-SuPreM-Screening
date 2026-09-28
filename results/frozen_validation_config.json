@@ -1,0 +1,17 @@
+{
+  "lesion_threshold": 0.7,
+  "pancreas_gate": 0.2,
+  "minimum_component": 200.0,
+  "dilation": 3.0,
+  "pancreas_dsc": 0.7781530222088626,
+  "lesion_dsc": 0.3390529044282198,
+  "p_sen": 0.9545454545454546,
+  "t_sen": 0.536144578313253,
+  "specificity": 0.5283251231527094,
+  "auc": 0.8676738132557098,
+  "TP": 84.0,
+  "TN": 429.0,
+  "FP": 383.0,
+  "FN": 4.0,
+  "selection_score": 0.5753188493511703
+}

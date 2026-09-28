@@ -1,0 +1,32 @@
+{
+  "cases": 901,
+  "pancreas_dsc": 0.8100816089566812,
+  "lesion_dsc": 0.4007071061625728,
+  "p_sen": 0.8145695364238411,
+  "t_sen": 0.6706586826347305,
+  "specificity": 0.45066666666666666,
+  "auc": 0.8102339955849889,
+  "TP": 123,
+  "TN": 338,
+  "FP": 412,
+  "FN": 28,
+  "tumors_detected": 112,
+  "tumors_total": 167,
+  "frozen_config": {
+    "lesion_threshold": 0.7,
+    "pancreas_gate": 0.2,
+    "minimum_component": 200.0,
+    "dilation": 3.0,
+    "pancreas_dsc": 0.7781530222088626,
+    "lesion_dsc": 0.3390529044282198,
+    "p_sen": 0.9545454545454546,
+    "t_sen": 0.536144578313253,
+    "specificity": 0.5283251231527094,
+    "auc": 0.8676738132557098,
+    "TP": 84.0,
+    "TN": 429.0,
+    "FP": 383.0,
+    "FN": 4.0,
+    "selection_score": 0.5753188493511703
+  }
+}

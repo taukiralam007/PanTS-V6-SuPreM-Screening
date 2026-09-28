@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.log
+
+# Large/raw medical data
+data/
+data_cache/
+downloads/
+*.nii
+*.nii.gz
+*.tar
+*.tar.gz
+*.zip
+
+# Model backups
+*backup*.pt
+*last*.pt
